@@ -1,2 +1,2 @@
-# fin-ml
-Explorations with Machine Learning in Finance
+# Explorations with Machine Learning in Finance & Risk
+A tale by Sheldon Irwin.
